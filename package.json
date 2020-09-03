@@ -1,0 +1,21 @@
+{
+  "name": "cra-template-electronapp",
+  "version": "1.0",
+  "description": "Create React App Template for Electronjs",
+  "main": "template.json",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scrip"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikeman32/cra-template-duke.git"
+  },
+  "author": "David H Isakson II",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ikeman32/cra-template-duke/issues"
+  },
+  "homepage": "https://github.com/ikeman32/cra-template-duke#readme"
+}

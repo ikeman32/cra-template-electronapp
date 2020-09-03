@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ikeman32/cra-template-duke.git"
+    "url": "git+https://github.com/ikeman32/cra-template-electronapp.git"
   },
   "author": "David H Isakson II",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ikeman32/cra-template-duke/issues"
+    "url": "https://github.com/ikeman32/cra-template-electronapp/issues"
   },
-  "homepage": "https://github.com/ikeman32/cra-template-duke#readme"
+  "homepage": "https://github.com/ikeman32/cra-template-electronapp#readme"
 }

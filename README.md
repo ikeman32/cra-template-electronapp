@@ -4,8 +4,11 @@
 You must have yarn installed.
 [Install instructions](https://classic.yarnpkg.com/en/docs/install/)
 
-wine: for linux or macOS
+wine: only for linux or macOS
 [Install instructions for wine](https://www.winehq.org/)
+
+git bash: only for windows
+[Install instruction for git bash](https://github.com/git-for-windows/git/releases/tag/v2.28.0.windows.1)
 
 ## How To Install
 

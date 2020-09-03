@@ -1,6 +1,6 @@
 {
   "name": "cra-template-electronapp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Create React App Template for Electronjs",
   "main": "template.json",
   "scripts": {

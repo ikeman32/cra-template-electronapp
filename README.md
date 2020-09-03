@@ -4,6 +4,9 @@
 You must have yarn installed.
 [Install instructions](https://classic.yarnpkg.com/en/docs/install/)
 
+wine: for linux or macOS
+[Install instructions for wine](https://www.winehq.org/)
+
 ## How To Install
 
 ### yarn
@@ -23,6 +26,10 @@ You must have yarn installed.
 > If create-react-app is installed globally on your computer you can use this command:
 
 `create-react -app <app-name> --template electronapp`
+
+## Usage
+Navigate to the src folder after running create-react-app then run the setup script
+`bash setup.sh`
 
 ## Credits
 This react template is based upon the following [repository](https://github.com/willjw3/react-electron)

@@ -1,18 +1,5 @@
-# Copy and paste this into the command line of the root folder of you project
-
-### first 
-npm i or yarn install
-
-### next
-npm i concurrently electron electron-builder wait-on -D
-
-                    or
-
-yarn add concurrently electron electron-builder wait-on -D
-
-## Why the additional devDependencies?
-Presently the create-react-app template do not allow configuration of devDependencies so it is neccessary to add the needed devDependencies to the project.
-
+# Setup
+run bash setup.sh
 
 # Requirements
 

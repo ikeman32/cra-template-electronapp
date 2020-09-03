@@ -49,6 +49,7 @@
       "build-electron": "electron-builder",
       "build": "yarn build-react && yarn build-electron -wml",
       "start": "concurrently \"cross-env BROWSER=none yarn start-react\" \"wait-on http://localhost:3000 && electron .\""
-    }
+    },
+    "homepage": "https://yourhomepage.com"
   }
 }

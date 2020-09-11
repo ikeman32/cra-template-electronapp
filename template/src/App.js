@@ -2,6 +2,7 @@ import React from 'react';
 import Routes from './components/routes/Routes';//Import routes
 import logo from './logo.svg';
 import './App.scss';
+import Routes from './components/routes/Routes';
 
 function App() {
   return (
